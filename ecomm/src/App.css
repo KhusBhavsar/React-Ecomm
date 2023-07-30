@@ -1,0 +1,24 @@
+*{
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.main{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  /* height: 350vh; */
+  position: relative;
+}
+
+
+
+
+
+.mainRoutes{
+  width: 81.5%;
+  height: 100%;
+background-color: white;
+}
